@@ -1,1 +1,3 @@
-REad
+Yampad --> Original (current as of Jan/2023) QMK Files from mattdibi
+Yampad_v3 --> K1P5 modified QMK files with 2u "0" key as default, rotary encoder A, B channels (vol up/down default) and Via support.
+Yampad_v4 --> K1P5 modified QMK files with 2u "0" key as default, rotary encoder A, B channels (vol up/down default), encoder push button and Via support.
