@@ -94,8 +94,9 @@ There's no wrong order for the YamPAD assembly with the exception of the Arduino
 5. Add the **reset 6mm button switch**.
 6. Add some electrical tape just to be sure.
 7. Add the **Arduino Pro Micro** bottom side up.
-8. Add the **OLED screen**
-9. Move to the firmware section and you should be set!
+8. Add the rotary encoder.
+9. Add the **OLED screen**
+10. Move to the firmware section and you should be set!
 
 ### Assembly details
 
